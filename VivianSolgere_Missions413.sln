@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VivianSolgere_Missions413", "VivianSolgere_Missions413\VivianSolgere_Missions413.csproj", "{566659C6-8681-49C9-9E04-178F046782B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{566659C6-8681-49C9-9E04-178F046782B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{566659C6-8681-49C9-9E04-178F046782B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{566659C6-8681-49C9-9E04-178F046782B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{566659C6-8681-49C9-9E04-178F046782B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7E46BD4-8D56-41D2-A34B-B39E63164538}
+	EndGlobalSection
+EndGlobal
